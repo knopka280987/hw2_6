@@ -1,4 +1,5 @@
-package HW6;
+import Competing;
+import com.sun.jdi.connect.Transport;
 
 public class Truck extends Transport implements Competing {
 
